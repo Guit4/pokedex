@@ -1,0 +1,2 @@
+# pokedex
+PROJETO DE POKEDEXXX
