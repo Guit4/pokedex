@@ -1,6 +1,6 @@
 # POKEDEX
 
-### Projeto de Pokedex contruido com auxilio de Tutorial no Youtube
+### Projeto de Pokedex construido com auxilio de Tutorial no Youtube
 
 
 PREVIEW
